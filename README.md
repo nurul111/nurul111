@@ -1,7 +1,7 @@
-img align="center" alt="Coding" width="400" src="[https://learn.g2.com/infrastructure-as-code](https://www.contino.io/insights/infrastructure-as-code)">
+<img align="top" alt="Coding" height="250" width="1100" src="https://wallpaperaccess.com/full/7167570.png">
 <h1 align="center">Hi 👋, I'm Nurul Amin</h1>
-<h3 align="center">NLP researcher | Machine Learning Enthusiast</h3>
-img align="right" alt="Coding" width="400" src="https://learn.g2.com/infrastructure-as-code">
+<h3 align="center">NLP researcher | Machine Learning Enthusiast | Python Developer</h3>
+<img align="right" alt="Coding" height="200"width="350" src="https://images.pexels.com/photos/12899140/pexels-photo-12899140.jpeg?auto=compress&cs=tinysrgb&w=600">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurul111&label=Profile%20views&color=0e75b6&style=flat" alt="nurul111" /> </p>
 
