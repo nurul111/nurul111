@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/nurulaminfahad" target="blank"><img src="https://img.shields.io/twitter/follow/nurulaminfahad?logo=twitter&style=for-the-badge" alt="nurulaminfahad" /></a> </p>
 
-- 🔭 I’m currently working on **Thesis**
+- 🔭 I’m currently working on a **Thesis**
 
 - 🌱 I’m currently learning **Machine Learning, NLP, Data analysis**
 
