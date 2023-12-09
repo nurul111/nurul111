@@ -1,4 +1,3 @@
-<img align="top" alt="Coding" height="250" width="1100" src="https://wallpaperaccess.com/full/7167570.png">
 <h1 align="center">Hi 👋, I'm Nurul Amin</h1>
 <h3 align="center">Machine Learning Enthusiast | Data Analyst</h3>
 <img align="right" alt="Coding" height="200"width="350" src="https://images.pexels.com/photos/12899140/pexels-photo-12899140.jpeg?auto=compress&cs=tinysrgb&w=600">
