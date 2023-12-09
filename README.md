@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, NLP, Data analysis**
 
-- 💬 Ask me about **ML, NLP, Python**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **nurulamincsec@gmail.com**
 
