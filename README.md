@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/nurulaminfahad" target="blank"><img src="https://img.shields.io/twitter/follow/nurulaminfahad?logo=twitter&style=for-the-badge" alt="nurulaminfahad" /></a> </p>
 
-- 🔭 I’m currently working on a **Thesis**
+- 🔭 I’m currently pursuing a **master’s degree in computer engineering** at **Åbo Akademi in Vaasa,Finland**
 
 - 🌱 I’m currently learning **Machine Learning, NLP, Data analysis**
 
