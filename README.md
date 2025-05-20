@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nurul Amin</h1>
-<h3 align="center">Data Analyst</h3>
+<h3 align="center"></h3>
 <img align="right" alt="Coding" height="200"width="350" src="https://images.pexels.com/photos/12899140/pexels-photo-12899140.jpeg?auto=compress&cs=tinysrgb&w=600">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurul111&label=Profile%20views&color=0e75b6&style=flat" alt="nurul111" /> </p>
