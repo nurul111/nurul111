@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently pursuing a **master’s degree in computer engineering** at **Åbo Akademi in Vaasa,Finland**
 
-- 🌱 I’m currently learning **Data Science, AI, ML, Data analysis**
+- 🌱 I’m learning **Data Science, AI, ML, Data analysis, Data Engineering**
 
 - 💬 Ask me about **Python**
 
